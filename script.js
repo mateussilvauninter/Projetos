@@ -1,5 +1,5 @@
 function sim() {
-    alert("Felizzz aniversario adiantado, tudo de bom e de melhor sempre");
+    alert("Felizzz aniversario adiantado, tudo de bom e de melhor sempre!");
 }
 
 function desvia(btn) {
